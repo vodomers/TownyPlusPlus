@@ -1,14 +1,15 @@
+# TownyPlusPlus
 TownyPlusPlus is an extension for Towny that adds exciting new features to enhance your gameplay.
 
-* War system
-* Town inventory
-* Town builds
-* Town alliances
-* Town ideologies
-* Town stock
-* Town wonders
+- War system
+- Town inventory
+- Town builds
+- Town alliances
+- Town ideologies
+- Town stock
+- Town wonders
 
-(Similar additions will be available for nations.)
+_(Similar additions will be available for nations.)_
 
 This plugin was developed by Vodomer and Vetux. Witux did not create a GitHub account.
 
