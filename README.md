@@ -1,16 +1,17 @@
-# TownyPlusPlus
-The [TownyPlusPlus](https://github.com/ZombneYT/TownyPlusPlus) adds an addition to everything for [Towny](https://github.com/TownyAdvanced/Towny)!
-- war system
-- town inventory
-- town builds
-- town alliance
-- town ideology
-- town stock
-- town wonders
+TownyPlusPlus is an extension for Towny that adds exciting new features to enhance your gameplay.
 
-(The same thing will happen for the nation)
+* War system
+* Town inventory
+* Town builds
+* Town alliances
+* Town ideologies
+* Town stock
+* Town wonders
 
-**The plugin was developed by [Vodomer](https://github.com/vodomers) and Vetux**(witux did not create a github account).
-Currently, this plugin is under active development, we are currently unable to provide a version of the plugin, so stay tuned on our discord [server](https://discord.gg/4MBvG53Shg).
+(Similar additions will be available for nations.)
 
-The plugin will be available for purchase upon release. Currently, we cannot offer it for free due to specific constraints related to development and support. We appreciate your patience and understanding. Please stay informed to be the first to know when the plugin becomes available.
+This plugin was developed by Vodomer and Vetux. Witux did not create a GitHub account.
+
+TownyPlusPlus is currently in active development. We're unable to release a version yet, but you can join our Discord server for updates: [Join Discord](https://discord.gg/4MBvG53Shg).
+
+Once released, the plugin will be available for purchase. We can't offer it for free at this time due to specific development and support constraints. We appreciate your understanding and patience. Stay tuned to be among the first to get it when it's out.
